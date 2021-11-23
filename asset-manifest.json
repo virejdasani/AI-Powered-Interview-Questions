@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AI-Powered-Interview-Questions/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/AI-Powered-Interview-Questions/static/js/main.f79db806.chunk.js",
+    "main.js.map": "/AI-Powered-Interview-Questions/static/js/main.f79db806.chunk.js.map",
+    "runtime-main.js": "/AI-Powered-Interview-Questions/static/js/runtime-main.8c086140.js",
+    "runtime-main.js.map": "/AI-Powered-Interview-Questions/static/js/runtime-main.8c086140.js.map",
+    "static/js/2.5cd0229f.chunk.js": "/AI-Powered-Interview-Questions/static/js/2.5cd0229f.chunk.js",
+    "static/js/2.5cd0229f.chunk.js.map": "/AI-Powered-Interview-Questions/static/js/2.5cd0229f.chunk.js.map",
+    "index.html": "/AI-Powered-Interview-Questions/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/AI-Powered-Interview-Questions/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.5cd0229f.chunk.js.LICENSE.txt": "/AI-Powered-Interview-Questions/static/js/2.5cd0229f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c086140.js",
+    "static/js/2.5cd0229f.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.f79db806.chunk.js"
+  ]
+}
